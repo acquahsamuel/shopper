@@ -4,7 +4,9 @@
   "description": "A shopping app using node.js",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start-dev": "NODE_ENV=development",
+    "start-prod" : "NODE_ENV=production",
+    "start" : "nodemon server.js"
   },
   "keywords": [
     "node.js",
