@@ -1,2 +1,2 @@
 # shopper
-Shopping webapp: node.js , mongodb,  ejs , frontend
+Shopping webapp: node.js , mongodb
